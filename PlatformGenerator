@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-//NOT object pooling; only instantiating/destroying objects so far
+//only instantiating/destroying objects so far
+//Object Pooling will be implemented soon
 
 public class PlatformGenerator : MonoBehaviour
 {
